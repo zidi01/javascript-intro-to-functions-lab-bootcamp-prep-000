@@ -74,7 +74,7 @@ describe('sayHiToGrandma(string)', function() {
 */
 
 function sayHiToGrandma(string){
-    if (string.toLowerCase() === lowerCase)
+  if (string.toLowerCase() === lowerCase)
     return "I can\'t hear you!";
   else (string.toUpperCase() === upperCase)
     return "YES INDEED!"
